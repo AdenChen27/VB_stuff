@@ -1,0 +1,6 @@
+Used or not #1 as use
+Total_Score
+Color_Of_Squre
+Color_Of_Obstacle
+File_Of_Game_Music
+Buyings##
